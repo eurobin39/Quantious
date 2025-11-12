@@ -4,6 +4,7 @@
   "description": "Quantious Coin on Solana.",
   "image": "https://raw.githubusercontent.com/eurobin39/Quantious/main/QTS.jpeg",
   "attributes": [
-    { "trait_type": "Meme Power", "value": "Over 9000" }
+    { "trait_type": "Network", "value": "Solana Mainnet" },
+    { "trait_type": "Type", "value": "Utility Token" }
   ]
 }
