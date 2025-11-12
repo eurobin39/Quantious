@@ -2,7 +2,7 @@
   "name": "QUANTIOUS",
   "symbol": "QTS",
   "description": "Quantious Coin on Solana.",
-  "image": "https://your-image-url.com/logo.png",
+  "image": "https://raw.githubusercontent.com/eurobin39/Quantious/main/QTS.jpeg",
   "attributes": [
     { "trait_type": "Meme Power", "value": "Over 9000" }
   ]
