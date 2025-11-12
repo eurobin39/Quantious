@@ -1,0 +1,9 @@
+{
+  "name": "QUANTIOUS",
+  "symbol": "QTS",
+  "description": "Quantious Coin on Solana.",
+  "image": "https://your-image-url.com/logo.png",
+  "attributes": [
+    { "trait_type": "Meme Power", "value": "Over 9000" }
+  ]
+}
